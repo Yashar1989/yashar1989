@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning Django, Postgres, Celery, Docker and ...
 <!--
 **Yashar1989/yashar1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
